@@ -1,0 +1,3 @@
+SHA256(Rocky Linux 64-bit Fourtech.ovf)= 7301fb2b05cf59fa8b2794178387705c87149e376bd1382a0ca7b6c6094191bb
+SHA256(Rocky_Linux_64-bit_Fourtech-file1.iso)= e20445907daefbfcdb05ba034e9fc4cf91e0e8dc164ebd7266ffb8fdd8ea99e7
+SHA256(Rocky_Linux_64-bit_Fourtech-disk1.vmdk)= bc998f25310e8d60c09dd51787a54b031ec24bec6aaa098084e9fd16f53c04fe
